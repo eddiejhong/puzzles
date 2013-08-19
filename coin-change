@@ -1,2 +1,5 @@
 import random, os.path, sys
 
+#Make 40c change using 25c, 10c, 5c, 1c
+
+coinOrder = [25, 10, 5, 1]
